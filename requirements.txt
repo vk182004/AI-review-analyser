@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+transformers
+torch
+sentencepiece
+protobuf
+openai>=1.0.0
