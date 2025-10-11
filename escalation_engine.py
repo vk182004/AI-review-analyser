@@ -20,8 +20,7 @@ st.set_page_config(
 st.sidebar.image("https://cdn-icons-png.flaticon.com/512/891/891462.png", width=80)
 st.sidebar.title("🛍 E-commerce Escalation Engine")
 st.sidebar.markdown(
-    "*By Team ⊥ʜᴇ  𝐔ꪀв๏ʀͶ
-*  \n"
+    "*By Team ⊥ʜᴇ 𝐔ꪀв๏ʀͶ* \n"
     "AI-powered customer feedback analysis for small businesses."
 )
 st.sidebar.markdown("---")
